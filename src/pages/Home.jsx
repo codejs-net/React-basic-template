@@ -20,7 +20,7 @@ function Home() {
         <Grid container spacing={3}>
         <Grid item xs={12}>
         <Typography gutterBottom variant="h5" component="h2">
-            Election Commission Srilanka
+            Code-JS React Basic Template
           </Typography>
         </Grid>
         <Grid item xs={3}>
