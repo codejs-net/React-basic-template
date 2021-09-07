@@ -17,7 +17,7 @@ export default function AppBarHeader() {
         <div className={classes.toolbarIcon}>
           <Avatar className={classes.logo} src="/logo.png"/>
           <h2 spacing={1}>CODE-JS&nbsp;</h2>
-          <Button color="primary" variant="outlined" href="/"><HomeIcon/>Home</Button>
+          <Button color="default" className={classes.button} variant="outlined" href="/"><HomeIcon/>Home</Button>
         </div>
           <Typography variant="h6" className={classes.title}>
             
